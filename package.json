@@ -1,6 +1,6 @@
 {
   "name": "react-native-calendar-strip-fixed",
-  "description": "Easy to use and visually stunning calendar component for React Native",
+  "description": "Easy to use and visually stunning calendar component for React Native, forked version for a fix",
   "author": "Bogdan Begovic <bogdanbegovic@gmail.com>",
   "contributors": [
     "Christopher Burns (https://github.com/Burnsy)",
@@ -12,10 +12,10 @@
     "Quinton Chester (https://github.com/QuintonC)"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/BugiDev/react-native-calendar-strip#readme",
+  "homepage": "https://github.com/YisusJe/react-native-calendar-strip-fixed#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BugiDev/react-native-calendar-strip.git"
+    "url": "git+https://github.com/YisusJe/react-native-calendar-strip-fixed.git"
   },
   "bugs": {
     "url": "https://github.com/BugiDev/react-native-calendar-strip/issues"

@@ -1,4 +1,5 @@
 <h1 align="center"> react-native-calendar-strip </h1>
+<h2 align="center"> original repository: https://github.com/BugiDev/react-native-calendar-strip </h2>
 <div align="center">
   <strong> Easy to use and visually stunning calendar component for React Native.</strong>
 </div>
